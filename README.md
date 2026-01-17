@@ -34,4 +34,4 @@
 ## ⚙️ Installation
 Clone the repo:
 ```bash
-git clone https://github.com/your-username/SketchImage.git
+git clone https://github.com/rohitkjaiswal/SketchImage.git
